@@ -1,0 +1,36 @@
+MTF Blockchain
+
+Challenge 1
+  - Participation
+
+User: Athelete
+Onboard experience:
+  1. Download app/Go to website
+  2. Generate Key
+  3. Use public key (QR code) to scan at MTF-run events
+
+Everytime after:
+  1. User goes to an event
+  2. User scans QR
+  3. MTF handles the verification and sends user tokens
+
+Challenge 2
+  - Security
+
+
+Challenge 6
+  - Point tracking
+
+interface for user to create acc, use keys, see points
+
+user
+  -priv/pub keypair
+  -create contract (wallet contract) through create2 factory
+  -can receive funds on that address(wallet)
+  -multisig wallet where MTF can access
+
+Problem: Tracking
+Solution: Each user has address
+  -Problem: key management
+  -Solution: wallet contract (multisig)
+ 
