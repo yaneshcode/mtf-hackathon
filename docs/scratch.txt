@@ -1,0 +1,47 @@
+MTF Challenge
+
+Challenge 1 - Participation
+Athletes will receive points(tokens) by participating at MTF events.
+At the MTF event there will be at least one computer available(provided by MTF)
+to allow the Athletes to check-in. Athletes can check-in to an event by either
+loging on the web interface with thier username/password which contains their
+account or scan their QR code(code is an address to a contract wallet).
+
+- MTF is able to verify who attended these events 
+- Athletes are able to earn tokens in their accounts
+
+
+Challenge 2 - Security XXXX
+Identities are protected and users use an online alias in public
+
+XXXX Not doing this one
+
+Challenge 3 - Donations
+A system where donors can fund MTF. They have the option of choosing which
+projects their funds go to. Using a partially fungible token they should be
+able to see where their funds end up in a transparent way through the
+blockchain. 
+
+Challenge 4 - Monetary conversion
+Tricky?
+
+Challenge 5 - Exchange
+Interface for vendors to accept points in exchange for goods/services.
+Scenario:
+1. user logs on website using user/pass
+2. goes to the vendor page, finds a hockey stick they'd like to buy from Nike
+for 100 tokens.
+3. user confirms and the tokens are sent from user(athlete)'s account to Nike's
+account. 
+4. Nike gets notification of that transaction, they can check/verify that it is
+correct through the blockchain. They give the hockey stick to that user
+(directly if user is in a store, mail it to address user provides-maybe saved
+in their account?)
+5. When Nike wants to cash out the tokens, they send it to MTF. MTF can verify
+that Nike sent them 100 tokens to cash out from the blockchain. 
+6. MTF then initiates the cashout process which is :
+  - Burn 100 tokens so they are no longer in circulation.
+  - Send $100 to Nike from MTF's fund account to Nike's bank fund account.
+
+Challenge 6 - Participation
+- More details in slides
